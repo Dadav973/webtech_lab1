@@ -7,6 +7,7 @@ serverHandle: function (req, res) {
   const http = require('http')
   const url = require('url')
   const qs = require('querystring')
+
   const route = url.parse(req.url)
   const path = route.pathname
   const params = qs.parse(route.query)
