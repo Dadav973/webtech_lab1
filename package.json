@@ -8,9 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dadav973/webtech_lab1.git"
+    "url": "git+https://github.com/Dadav973/webtech_lab1.git",
+    "start" = "npm index.js"
   },
-  "author": "",
+  "author": "ZHONG David",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Dadav973/webtech_lab1/issues"
